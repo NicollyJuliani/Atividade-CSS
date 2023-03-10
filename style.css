@@ -1,0 +1,21 @@
+.card{
+    background-color: rgb(194, 162, 224); 
+    width: 400px; 
+    padding: 28px; 
+    border: 3px solid rgb(57, 7, 104); 
+    border-radius: 7px; 
+    font-size: 15px; 
+    margin-top: 20px;
+    font-family: monospace;
+}
+
+.avatar{
+    background-color: blueviolet; 
+    width: 50px; 
+    height: 50px; 
+    border-radius: 50px;
+}
+
+.destaque{
+    color: blueviolet;
+}
